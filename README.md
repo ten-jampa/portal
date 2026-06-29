@@ -7,3 +7,4 @@
 5. Elicit Machine Learning List [https://github.com/elicit/machine-learning-list]
 6. Top papers Aman [https://aman.ai/primers/ai/top-30-papers/#scaling-laws-for-neural-language-models]
 7. CS231n Notes [https://cs231n.stanford.edu/2016/syllabus.html]
+8. Data Engineering Wiki [https://dataengineering.wiki/Index]
