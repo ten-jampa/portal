@@ -9,3 +9,4 @@
 7. CS231n Notes [https://cs231n.stanford.edu/2016/syllabus.html]
 8. Data Engineering Wiki [https://dataengineering.wiki/Index]
 9. Full Stack Python [https://www.fullstackpython.com/]
+10. TerminalQuest Game [https://github.com/TerminalQuest/terminalquest]
